@@ -1,17 +1,37 @@
-## Kim juhwan
+## Kim juhwan | Computer Science & Statistics
 
+안녕하세요.
+데이터 분석과 통계 기반 문제 해결에 관심이 있는 학생입니다.
 
-<!--
-**Kimjuhwan-git/Kimjuhwan-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎓 Education
+- 한국외국어대학교 글로벌캠퍼스
+- Major: Computer Science
+- Double Major: Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+- Python (공부 중)
+- 데이터 분석 기초
+- SQL (공부 중)
+- SAS (공부 중)
+- R (공부 중)
+
+---
+
+## 📊 Activities
+
+### 학회활동(DATA LAB, BDAI)
+
+---
+
+## 📁 Projects
+프로젝트 추가 예정
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/Kimjuhwan-git
+- Email: kims25702970@gamil.com
