@@ -1,4 +1,4 @@
-## Kim juhwan | Computer Science & Statistics
+## 김주환 | Computer Science & Statistics
 
 안녕하세요.
 데이터 분석과 통계 기반 문제 해결에 관심이 있는 학생입니다.
