@@ -23,7 +23,7 @@
 
 ## 📊 Activities
 
-### 학회활동 - DATA LAB, BDAI
+### 학회활동 - DATA LAB(교내), BDAI(대외)
 
 ---
 
